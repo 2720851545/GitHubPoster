@@ -12,10 +12,10 @@ env:
   # please change to your own config.
   # this actions generate only this year
   # If you fork this please change the type to yours below
-  TYPE: 'ns, duolingo, issue, twitter, github, pass' # support strava/gpx/ns/cichang/shanbay/duolingo/issue/leetcode/twitter/github/gitlab/kindle, Please change the 'pass' it to your own separated by commas
-  ME: Yihong0618
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  TYPE: 'github' # support strava/gpx/ns/cichang/shanbay/duolingo/issue/leetcode/twitter/github/gitlab/kindle, Please change the 'pass' it to your own separated by commas
+  ME: liu
+  GITHUB_NAME: 2720851545
+  GITHUB_EMAIL: 2720851545@qq.com
 
 jobs:
   sync:
